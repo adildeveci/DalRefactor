@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DalRefactor": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Projects\\_git\\CoreCredit\\CoreCommonLayers\\NDAL\\AppAssesment"
+    }
+  }
+}

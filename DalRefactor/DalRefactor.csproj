@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Adil Deveci</Authors>
+    <Company>Dogus Teknoloji</Company>
+    <Description>SqlParameter Array to List Converter</Description>
+  </PropertyGroup>
+
+</Project>
