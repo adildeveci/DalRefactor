@@ -57,7 +57,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [.net core 5](https://docs.microsoft.com/tr-tr/dotnet/core/whats-new/dotnet-5) 
  
  <p align="right">(<a href="#top">back to top</a>)</p>
-<!-- GETTING STARTED -->
+
+
 ## Getting Started
 
 Uygulamayı lokalinizi indirerek direkt çalıştırabilirsiniz
